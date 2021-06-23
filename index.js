@@ -187,9 +187,6 @@ module.exports =
                         }
                     });
                 };
-                display({
-                    title: "amit"
-                })
                 search(term);
             };
             /* harmony export (immutable) */
